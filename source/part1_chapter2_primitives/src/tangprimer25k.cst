@@ -1,0 +1,5 @@
+IO_LOC "clock" E2;
+IO_PORT "clock" IO_TYPE=LVCMOS33;
+
+IO_LOC  "dout_check" C10;
+IO_PORT "dout_check" IO_TYPE=LVCMOS33;

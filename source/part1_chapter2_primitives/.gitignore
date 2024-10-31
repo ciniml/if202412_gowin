@@ -1,0 +1,9 @@
+*.gprj.user
+impl/gwsynthesis
+impl/pnr
+impl/temp
+dsim_work
+*.dpf
+*.db
+*.log
+*.env

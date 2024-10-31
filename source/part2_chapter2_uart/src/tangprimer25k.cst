@@ -1,0 +1,7 @@
+IO_LOC "clock" E2;
+IO_PORT "clock" IO_TYPE=LVCMOS33;
+
+IO_LOC  "rx" B3;
+IO_PORT "rx" IO_TYPE=LVCMOS33;
+IO_LOC  "tx" C3;
+IO_PORT "tx" IO_TYPE=LVCMOS33;
